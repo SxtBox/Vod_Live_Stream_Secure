@@ -12,3 +12,7 @@ Vod Stream Secure
 
 # JSON EXAMPLE DATA
     https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json
+
+# JSON EXAMPLE RAW DATA
+    https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json_raw
+
