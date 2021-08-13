@@ -8,14 +8,14 @@ Vod Stream Secure
     THIS METHOD IS NOT 100% SAFE, THERE ARE MANY WAYS TO MAKE STREAMS EXTRACTOR BUT THIS COVERS 85% INSURANCE
     
 # Hosted API PLAYER
-    https://paidcodes.albdroid.al/Players/Stream_Secure/Vod
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Vod**
 
 # JSON EXAMPLE DATA
-    https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json**
 
 # JSON EXAMPLE RAW DATA
-    https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json_raw
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json_raw**
 
 
 # Encrypt/Decrypt
-**https://paidcodes.albdroid.al/Players/Stream_Secure/Encrypt_Decrypt/**
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Encrypt_Decrypt**
