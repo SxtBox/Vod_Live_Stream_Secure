@@ -2,7 +2,7 @@
 Vod Stream Secure
 
     Vod Streams Player With Hidden Real URL
-    Play from /your server path/
+    Play from /your server path/ or from external url's
     
 # NOTE
     THIS METHOD IS NOT 100% SAFE, THERE ARE MANY WAYS TO MAKE STREAMS EXTRACTOR BUT THIS COVERS 85% INSURANCE
