@@ -25,4 +25,6 @@ Protect streams from grabbers
 # Encrypt/Decrypt
 **https://paidcodes.albdroid.al/Players/Stream_Secure/Encrypt_Decrypt**
 
+# WHICH OF YOU FINDS THE REAL DESTINATION OF STREAM WILL FORGIVE THE PHP SCRIPT.
+
 
