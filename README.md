@@ -1,7 +1,7 @@
-# Vod Stream Secure
-Vod And Live Stream Secure
+# Vod And Live Stream Secure APIS
+Protect streams from grabbers
 
-    Vod Streams Player With Hidden Real URL
+    Vod and Live Streams Player With Hidden Real URL
     Play from /your server path/ or from external url's
     
 # NOTE
