@@ -25,6 +25,16 @@ Protect streams from grabbers
 # Encrypt/Decrypt
 **https://paidcodes.albdroid.al/Players/Stream_Secure/Encrypt_Decrypt**
 
+# Advanced Playlist With Encrypter Streams Player
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Playlist/JW_Playlist_Advanced.php**
+
+# Advanced Playlist With No Encrypter Streams Player
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Playlist/JW_Playlist_Simple.php**
+
+# Structure for Advanced Players
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/Proxy_Encoded.php?get=all_streams**
+
+
 # WHICH OF YOU FINDS THE REAL DESTINATION OF STREAM WILL FORGIVE THE PHP SCRIPT.
 
 
