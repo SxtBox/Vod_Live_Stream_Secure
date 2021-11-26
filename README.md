@@ -11,16 +11,19 @@ Protect streams from grabbers
 **https://paidcodes.albdroid.al/Players/Stream_Secure**
     
 # VOD API PLAYER
-**https://paidcodes.albdroid.al/Players/Stream_Secure/Vod**
+**OUT OF ORDER -> https://paidcodes.albdroid.al/Players/Stream_Secure/Vod**
 
 # VOD JSON EXAMPLE DATA
-**https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json**
+**OUT OF ORDER -> https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json**
 
 # VOD JSON EXAMPLE RAW DATA
-**https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json_raw**
+**OUT OF ORDER -> https://paidcodes.albdroid.al/Players/Stream_Secure/Vod/?json_raw**
 
 # VOD Playlist Data
 **https://paidcodes.albdroid.al/Players/Stream_Secure/Playlist**
+
+# VOD All in one Streams
+**https://paidcodes.albdroid.al/Players/Stream_Secure/Playlist/All_Combined_Streams/**
 
 # Encrypt/Decrypt
 **https://paidcodes.albdroid.al/Players/Stream_Secure/Encrypt_Decrypt**
